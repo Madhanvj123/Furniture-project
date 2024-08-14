@@ -13,13 +13,14 @@ section{
 }
 #search{
     padding: 20px;
-    width: 1500px;
+    width: 1400px;
     font-size: 40px;
     border: none;
 }
 .search_icon{
     position: absolute;
     right: 150px;
+    top: 200px;
 }
 .container{
     margin-top:100px;

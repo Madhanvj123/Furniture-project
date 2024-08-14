@@ -3,6 +3,10 @@
     margin-top: 80px;
 
 }
+section{
+    position: relative;
+    right:  100px;
+}
 .maya_account{
     /* border: 1px solid rgb(241, 240, 240); */
     text-align: center;
