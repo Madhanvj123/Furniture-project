@@ -1,0 +1,148 @@
+.content1{
+    /* border: 1px solid; */
+    width: 290px;
+    position: relative;
+    top: 80px;  
+}
+ul li{
+    padding: 10px;
+    
+}
+
+ li a:hover{
+    background-color: gold;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right:10px ;
+    padding-left:10px ;
+    
+
+}
+
+h2{
+    padding-left: 50px;
+}
+.product{
+    padding-left: 50px;
+    padding-top: 10px;
+
+}
+.content2{
+    position:relative ;
+    left: 300px;
+    bottom: 1190px;
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    gap: 20px;
+    margin-right: 350px;
+}
+.sofa1{
+    /* border: 1px solid; */
+    width: 400px;
+    height: 180px;
+    background-color: white;
+}
+.dot{
+    border: 1px solid;
+    width: 4px;
+    height: 4px;
+    border-radius: 50%;
+    background-color: black;
+    margin-left: 20px;
+    
+}
+.dots{
+    display: flex;
+    padding-left: 150px;
+    
+}
+.rp {
+  padding-left: 155px;
+}
+.vee {
+  padding-left: 110px;
+}
+.shop {
+  padding-left: 145px;
+  color: rgb(236, 24, 24);
+  font-weight: 600;
+}
+.btn{
+    padding: 10px 15px;
+    border: none;
+    background-color: gold;
+    border-radius: 20px;
+    margin-left: 149px;
+}
+a.btn{
+    text-decoration: none;
+}
+.dots_a{
+    display: flex;
+    margin-top: 20px;
+    margin-left: 40px;
+
+}
+.dots_1a{
+    border: 1px solid;
+    width: 25px;
+    height: 25px;
+    border-radius: 50%;
+    margin: 10px;
+    border: none;
+    
+    
+}
+.dote1{
+    position: relative;
+    bottom: 30px;   
+}
+.dote2{
+    position: relative;
+    bottom: 60px;   
+}
+.dote3{
+    position: relative;
+    bottom: 90px;   
+}
+.dote4{
+    position: relative;
+    bottom: 120px;   
+}
+.dote5{
+    position: relative;
+    bottom: 150px;   
+}
+.btnfilter{
+     padding: 10px 15px;
+    border: none;
+    background-color: gold;
+    border-radius: 20px;
+    margin-left: 38px;
+    margin-top: 20px;
+
+}
+.numbers a{
+    border: 1px solid rgb(240, 237, 237);
+    padding: 15px;
+    text-decoration: none;
+
+}
+ .numbers{
+    margin-left: 700px;
+    margin-top: 50px;
+}
+.numbers a:hover{
+    background-color: rgb(225, 222, 222);
+    color: rgb(12, 11, 11);
+} 
+.num{
+    background-color: black;
+    color: aliceblue;
+}
+.ftr{
+   position: relative;
+   bottom: 900px;
+}
+
+
